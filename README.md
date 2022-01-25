@@ -2,7 +2,7 @@
 
 ## Overview of Project
 ### Purpose
-Explain the purpose of the new analysis.
+As a new data analyst at Pyber, a ride-sharing app company, I have been assigned to perform an exploratory analysis of rideshare data to help Pyber improve accessibility and determine affordability for underserved neighborhoods. We will be looking at the differences in various metrics between Rural, Suburban, and Rural cities to see where there could be areas of improvement.
 
 ## Results
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
